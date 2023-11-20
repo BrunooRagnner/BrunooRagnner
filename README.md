@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @BrunooRagnner
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Olá, eu sou Bruno Ragnner! 👋
 
-<!---
-BrunooRagnner/BrunooRagnner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Sobre Mim
+- 👨‍💻 Desenvolvedor apaixonado por tecnologia.
+- 🌱 Atualmente, estou aprendendo mais sobre desenvolvimento web com Python e Flask.
+- 💡 Estou interessado em desenvolvimento backend e arquitetura de software.
+
+## Habilidades
+- Python | Flask | SQL | Git
+
+## Projetos Destacados
+- [not Noticia](http://not.pythonanywhere.com/) - projeto  de site de noticias.
+- [sistema de pedidos](https://brunooragnner.pythonanywhere.com/) - projeto   de sistema de pedidos.
+- [Projeto 3](link_para_o_projeto) - Breve descrição do projeto.
+
+## Contato
+- [LinkedIn](seu_linkedin)
+- [Portfolio](seu_portfolio)
+- Email: projetoswebeletry@email.com
+
+## Interesses
+- Desenvolvimento de APIs RESTful
+- Python e Flask
+- Contribuir para projetos open source
