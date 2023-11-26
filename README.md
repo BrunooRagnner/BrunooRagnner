@@ -1,5 +1,6 @@
 # Olá, eu sou Bruno Ragnner! 👋
-
+#estou  precisado trabalhar, estou a disposição 
+ Email: projetoswebeletry@email.com
 ## Sobre Mim
 - 👨‍💻 Desenvolvedor apaixonado por tecnologia.
 - 🌱 Atualmente, estou aprendendo mais sobre desenvolvimento web com Python e Flask.
