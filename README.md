@@ -10,7 +10,7 @@
 - Python | Flask | SQL | Git
 
 ## Projetos Destacados
-- [not Noticia](http://not.pythonanywhere.com/) - projeto  de site de noticias.
+- [meu outro Github](https://github.com/BrunoRagner ) - projeto  de site de noticias.
 - [sistema de pedidos](https://brunooragnner.pythonanywhere.com/) - projeto   de sistema de pedidos.
 - [Projeto 3](link_para_o_projeto) - Breve descrição do projeto.
 
