@@ -1,53 +1,66 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=200&section=header&text=Bruno%20Ragner%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<!-- Banner personalizado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Bruno%20Ragner%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner" />
 
 # 👋 Olá, eu sou o Bruno!
 
 🎯 Estudante de Análise de Dados | Focado em Python, SQL, Excel e Power BI  
-📚 Apaixonado por transformar dados em insights valiosos  
-🚀 Em busca da minha primeira oportunidade como **Analista de Dados Júnior**
+🚀 Transformando dados em decisões inteligentes  
+🎓 Buscando minha primeira oportunidade como **Analista de Dados Júnior**
 
 ---
 
-## 📚 Atualmente estudando:
-- **Excel Avançado** (Tabelas Dinâmicas, Fórmulas, Dashboards)
-- **Python** (Pandas, Matplotlib, Seaborn)
-- **SQL** (Consultas, Análises e Relatórios)
-- **Power BI** (Visualização de Dados)
+## 🧠 Sobre mim
+- 🔎 Apaixonado por **Análise de Dados** e **Tecnologia**.
+- 💻 Estudando diariamente para aprimorar minhas habilidades práticas.
+- 📈 Focado em criar **dashboards**, **relatórios** e **análises** que impactam decisões.
+- 📚 Defensor do aprendizado contínuo e da prática constante.
 
 ---
 
-## 📂 Projetos em destaque:
+## 🛠️ Habilidades
+### Linguagens e Ferramentas:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📂 Projetos em Destaque
 - 📊 **Dashboard de Vendas no Power BI**  
-  _Visualização de KPIs e análise de performance de vendas._
+  _Criação de dashboards com KPIs de vendas mensais, regionais e de produto._
 
 - 🐍 **Análise de Dados de Vendas com Python**  
-  _Tratamento de dados e geração de insights com Pandas e Matplotlib._
+  _Tratamento de datasets, geração de gráficos e relatórios de insights com Pandas e Matplotlib._
 
 - 🛢️ **Consultas SQL para Bancos de Dados**  
-  _Exploração de dados e criação de relatórios a partir de bases relacionais._
+  _Execução de queries para exploração, análise e relatórios de grandes bases de dados._
 
 ---
 
-## 🚀 Tecnologias
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## 🔗 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoragner/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunoRagner)
 
 ---
 
-## 📫 Vamos conversar?
-- [LinkedIn](https://www.linkedin.com/in/brunoragner/)
-- [GitHub](https://github.com/BrunoRagner)
+## 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrunoRagner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRagner&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ---
 
-## 📈 Contador de visitas
-![Visitor Count](https://komarev.com/ghpvc/?username=BrunoRagner&color=0E6EB8&style=flat-square)
+## 📈 Contador de Visitas
+![Visitantes](https://komarev.com/ghpvc/?username=BrunoRagner&label=Visitantes&color=0e75b6&style=flat)
 
 ---
 
-⭐ **Obrigado por visitar meu perfil!**  
-**Sinta-se à vontade para explorar meus projetos e me chamar para conversar!**
+# ✨ "Os dados contam histórias. Eu sou o tradutor."
+⭐ Obrigado por visitar meu perfil!
+
+
 
