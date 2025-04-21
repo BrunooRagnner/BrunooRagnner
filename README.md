@@ -1,25 +1,21 @@
-# Olá, eu sou Bruno Ragnner! 👋
-#estou  precisado trabalhar, estou a disposição 
- Email: projetoswebeletry@email.com
-## Sobre Mim
-- 👨‍💻 Desenvolvedor apaixonado por tecnologia.
-- 🌱 Atualmente, estou aprendendo mais sobre desenvolvimento web com Python e Flask.
-- 💡 Estou interessado em desenvolvimento backend e arquitetura de software.
+# Olá! Eu sou o Bruno 👋
 
-## Habilidades
-- Python | Flask | SQL | Git
+🎯 Estudante de Análise de Dados | Python, SQL, Excel e Power BI  
+📚 Atualmente focado em projetos práticos e aprendizado contínuo  
+🚀 Em busca de uma oportunidade como Analista de Dados Júnior  
 
-## Projetos Destacados
-- [meu outro Github](https://github.com/BrunoRagner ) - projeto  de site de noticias.
-- [sistema de pedidos](https://brunooragnner.pythonanywhere.com/) - projeto   de sistema de pedidos.
-- [Projeto 3](link_para_o_projeto) - Breve descrição do projeto.
+## 📈 Tecnologias que estou estudando:
+- Excel Avançado
+- Python (pandas, matplotlib)
+- SQL
+- Power BI
 
-## Contato
-- [LinkedIn](seu_linkedin)
-- [Portfolio](seu_portfolio)
-- Email: projetoswebeletry@email.com
+## 📂 Projetos em destaque:
+- Dashboard de Vendas no Power BI
+- Análise de Dados de Vendas com Python
+- Consultas SQL para Bancos de Dados
 
-## Interesses
-- Desenvolvimento de APIs RESTful
-- Python e Flask
-- Contribuir para projetos open source
+---
+
+⭐ Obrigado por visitar meu perfil!
+
