@@ -102,28 +102,28 @@
 </table>
 
 <!-- ============================================================ -->
-<!-- VÍDEOS DO DIA A DIA DO DEV - TODOS FUNCIONANDO               -->
+<!-- TODOS OS VÍDEOS DO DIA A DIA DO DEV - 9 GIFS                 -->
 <!-- ============================================================ -->
 <h2 align="center" style="color: #7B2FBE;">😂 Dia a Dia de um Dev</h2>
 
 <table align="center" width="90%" style="background: #0D1117; border-radius: 20px; padding: 20px; border: 1px solid #1A1A2E;">
   <tr>
     <td align="center" width="33%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" style="border-radius: 15px;">
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,212,255,0.2);">
       <p style="color: #94a3b8; margin-top: 10px;">
         <strong style="color: #00D4FF;">Quando encontro um bug</strong><br>
         😱 "Mas funcionava na minha máquina!"
       </p>
     </td>
     <td align="center" width="33%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/LpU0BcQvv8zLi/giphy.gif" width="100%" style="border-radius: 15px;">
+      <img src="https://media.giphy.com/media/LpU0BcQvv8zLi/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(123,47,190,0.2);">
       <p style="color: #94a3b8; margin-top: 10px;">
         <strong style="color: #7B2FBE;">Quando o deploy dá certo</strong><br>
         🎉 "É isso aí, mais um projeto no ar!"
       </p>
     </td>
     <td align="center" width="33%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8M/giphy.gif" width="100%" style="border-radius: 15px;">
+      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8M/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(255,107,107,0.2);">
       <p style="color: #94a3b8; margin-top: 10px;">
         <strong style="color: #FF6B6B;">Revisando código dos outros</strong><br>
         🤔 "Quem escreveu isso? Ah, fui eu..."
@@ -132,21 +132,21 @@
   </tr>
   <tr>
     <td align="center" width="33%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100%" style="border-radius: 15px;">
+      <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(62,207,142,0.2);">
       <p style="color: #94a3b8; margin-top: 10px;">
         <strong style="color: #3ECF8E;">Depois de 12h codando</strong><br>
         😴 "Só mais um commit..."
       </p>
     </td>
     <td align="center" width="33%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif" width="100%" style="border-radius: 15px;">
+      <img src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,212,255,0.2);">
       <p style="color: #94a3b8; margin-top: 10px;">
         <strong style="color: #00D4FF;">Cliente pedindo mais features</strong><br>
         😅 "Claro, é só adicionar um botão..."
       </p>
     </td>
     <td align="center" width="33%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" style="border-radius: 15px;">
+      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(123,47,190,0.2);">
       <p style="color: #94a3b8; margin-top: 10px;">
         <strong style="color: #7B2FBE;">Finalmente resolvendo o bug</strong><br>
         🦸 "Eu sou o melhor dev do mundo!"
@@ -155,24 +155,24 @@
   </tr>
   <tr>
     <td align="center" width="33%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/3o7abKhOpu0N9H8h8M/giphy.gif" width="100%" style="border-radius: 15px;">
+      <img src="https://media.giphy.com/media/3o7abKhOpu0N9H8h8M/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(255,107,107,0.2);">
       <p style="color: #94a3b8; margin-top: 10px;">
         <strong style="color: #FF6B6B;">O que o Google vê de mim</strong><br>
         👀 "Como fazer um select no SQL?"
       </p>
     </td>
     <td align="center" width="33%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="100%" style="border-radius: 15px;">
+      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(62,207,142,0.2);">
       <p style="color: #94a3b8; margin-top: 10px;">
         <strong style="color: #3ECF8E;">Merge na sexta-feira 17h</strong><br>
         🙏 "Por favor, não quebre a produção..."
       </p>
     </td>
     <td align="center" width="33%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" style="border-radius: 15px;">
+      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,212,255,0.2);">
       <p style="color: #94a3b8; margin-top: 10px;">
         <strong style="color: #00D4FF;">Café é vida</strong><br>
-        ☕ "Sem café não tem código..."
+        ☕ "Sem café não tem código!"
       </p>
     </td>
   </tr>
