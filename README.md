@@ -58,7 +58,7 @@
 <hr style="width: 80%; border: none; height: 2px; background: linear-gradient(90deg, transparent, #00D4FF, #7B2FBE, #FF6B6B, transparent); margin: 30px auto;">
 
 <!-- ============================================================ -->
-<!-- SOBRE MIM COM VÁRIOS GIFS                                     -->
+<!-- SOBRE MIM                                                     -->
 <!-- ============================================================ -->
 <h2 align="center" style="color: #00D4FF;">🎯 Sobre Mim</h2>
 
@@ -89,10 +89,8 @@
       </div>
     </td>
     <td width="45%" align="center">
-      <!-- VÍDEO 1 - Programador feliz -->
       <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 8px 40px rgba(0,212,255,0.1); margin-bottom: 10px;">
       <br>
-      <!-- VÍDEO 2 - Computador explodindo -->
       <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 8px 40px rgba(123,47,190,0.1);">
       <br>
       <p style="color: #64748b; font-size: 0.8em; margin-top: 10px;">
@@ -104,221 +102,78 @@
 </table>
 
 <!-- ============================================================ -->
-<!-- SEÇÃO DE HUMOR COM MUITOS GIFS                                -->
+<!-- VÍDEOS DO DIA A DIA DO DEV - TODOS FUNCIONANDO               -->
 <!-- ============================================================ -->
 <h2 align="center" style="color: #7B2FBE;">😂 Dia a Dia de um Dev</h2>
 
 <table align="center" width="90%" style="background: #0D1117; border-radius: 20px; padding: 20px; border: 1px solid #1A1A2E;">
   <tr>
-    <td align="center" width="25%" style="padding: 15px;">
+    <td align="center" width="33%" style="padding: 15px;">
       <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" style="border-radius: 15px;">
       <p style="color: #94a3b8; margin-top: 10px;">
         <strong style="color: #00D4FF;">Quando encontro um bug</strong><br>
         😱 "Mas funcionava na minha máquina!"
       </p>
     </td>
-    <td align="center" width="25%" style="padding: 15px;">
+    <td align="center" width="33%" style="padding: 15px;">
       <img src="https://media.giphy.com/media/LpU0BcQvv8zLi/giphy.gif" width="100%" style="border-radius: 15px;">
       <p style="color: #94a3b8; margin-top: 10px;">
         <strong style="color: #7B2FBE;">Quando o deploy dá certo</strong><br>
         🎉 "É isso aí, mais um projeto no ar!"
       </p>
     </td>
-    <td align="center" width="25%" style="padding: 15px;">
+    <td align="center" width="33%" style="padding: 15px;">
       <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8M/giphy.gif" width="100%" style="border-radius: 15px;">
       <p style="color: #94a3b8; margin-top: 10px;">
         <strong style="color: #FF6B6B;">Revisando código dos outros</strong><br>
         🤔 "Quem escreveu isso? Ah, fui eu..."
       </p>
     </td>
-    <td align="center" width="25%" style="padding: 15px;">
+  </tr>
+  <tr>
+    <td align="center" width="33%" style="padding: 15px;">
       <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100%" style="border-radius: 15px;">
       <p style="color: #94a3b8; margin-top: 10px;">
         <strong style="color: #3ECF8E;">Depois de 12h codando</strong><br>
         😴 "Só mais um commit..."
       </p>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%" style="padding: 15px;">
+    <td align="center" width="33%" style="padding: 15px;">
       <img src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif" width="100%" style="border-radius: 15px;">
       <p style="color: #94a3b8; margin-top: 10px;">
         <strong style="color: #00D4FF;">Cliente pedindo mais features</strong><br>
         😅 "Claro, é só adicionar um botão..."
       </p>
     </td>
-    <td align="center" width="25%" style="padding: 15px;">
+    <td align="center" width="33%" style="padding: 15px;">
       <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" style="border-radius: 15px;">
       <p style="color: #94a3b8; margin-top: 10px;">
         <strong style="color: #7B2FBE;">Finalmente resolvendo o bug</strong><br>
         🦸 "Eu sou o melhor dev do mundo!"
       </p>
     </td>
-    <td align="center" width="25%" style="padding: 15px;">
+  </tr>
+  <tr>
+    <td align="center" width="33%" style="padding: 15px;">
       <img src="https://media.giphy.com/media/3o7abKhOpu0N9H8h8M/giphy.gif" width="100%" style="border-radius: 15px;">
       <p style="color: #94a3b8; margin-top: 10px;">
         <strong style="color: #FF6B6B;">O que o Google vê de mim</strong><br>
         👀 "Como fazer um select no SQL?"
       </p>
     </td>
-    <td align="center" width="25%" style="padding: 15px;">
+    <td align="center" width="33%" style="padding: 15px;">
       <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="100%" style="border-radius: 15px;">
       <p style="color: #94a3b8; margin-top: 10px;">
         <strong style="color: #3ECF8E;">Merge na sexta-feira 17h</strong><br>
         🙏 "Por favor, não quebre a produção..."
       </p>
     </td>
-  </tr>
-</table>
-
-<!-- ============================================================ -->
-<!-- VÍDEOS DE COMPUTER VISION                                     -->
-<!-- ============================================================ -->
-<h2 align="center" style="color: #00D4FF;">🖼️ Computer Vision em Ação</h2>
-
-<table align="center" width="90%" style="background: #0D1117; border-radius: 20px; padding: 20px; border: 1px solid #1A1A2E;">
-  <tr>
     <td align="center" width="33%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="100%" style="border-radius: 15px;">
+      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" style="border-radius: 15px;">
       <p style="color: #94a3b8; margin-top: 10px;">
-        <strong style="color: #00D4FF;">Detecção de Objetos</strong><br>
-        🎯 "Onde está o gato?"
+        <strong style="color: #00D4FF;">Café é vida</strong><br>
+        ☕ "Sem café não tem código..."
       </p>
-    </td>
-    <td align="center" width="33%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="100%" style="border-radius: 15px;">
-      <p style="color: #94a3b8; margin-top: 10px;">
-        <strong style="color: #7B2FBE;">Reconhecimento Facial</strong><br>
-        👤 "Quem é você?"
-      </p>
-    </td>
-    <td align="center" width="33%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="100%" style="border-radius: 15px;">
-      <p style="color: #94a3b8; margin-top: 10px;">
-        <strong style="color: #FF6B6B;">OCR - Leitura de Texto</strong><br>
-        📝 "O que essa placa diz?"
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!-- ============================================================ -->
-<!-- VÍDEOS DE SQL E BANCO DE DADOS                               -->
-<!-- ============================================================ -->
-<h2 align="center" style="color: #3ECF8E;">🛢️ SQL & Database</h2>
-
-<table align="center" width="90%" style="background: #0D1117; border-radius: 20px; padding: 20px; border: 1px solid #1A1A2E;">
-  <tr>
-    <td align="center" width="50%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="100%" style="border-radius: 15px;">
-      <p style="color: #94a3b8; margin-top: 10px;">
-        <strong style="color: #00D4FF;">Consultas SQL</strong><br>
-        🔍 "SELECT * FROM tabela WHERE..."
-      </p>
-    </td>
-    <td align="center" width="50%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="100%" style="border-radius: 15px;">
-      <p style="color: #94a3b8; margin-top: 10px;">
-        <strong style="color: #3ECF8E;">Supabase Realtime</strong><br>
-        ⚡ "Dados atualizando em tempo real!"
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!-- ============================================================ -->
-<!-- VÍDEOS DE FULL-STACK                                         -->
-<!-- ============================================================ -->
-<h2 align="center" style="color: #FF6B6B;">⚡ Full-Stack Development</h2>
-
-<table align="center" width="90%" style="background: #0D1117; border-radius: 20px; padding: 20px; border: 1px solid #1A1A2E;">
-  <tr>
-    <td align="center" width="33%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="100%" style="border-radius: 15px;">
-      <p style="color: #94a3b8; margin-top: 10px;">
-        <strong style="color: #00D4FF;">Frontend</strong><br>
-        🎨 "Next.js + Tailwind"
-      </p>
-    </td>
-    <td align="center" width="33%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="100%" style="border-radius: 15px;">
-      <p style="color: #94a3b8; margin-top: 10px;">
-        <strong style="color: #7B2FBE;">Backend</strong><br>
-        🚀 "FastAPI + Python"
-      </p>
-    </td>
-    <td align="center" width="33%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="100%" style="border-radius: 15px;">
-      <p style="color: #94a3b8; margin-top: 10px;">
-        <strong style="color: #FF6B6B;">Deploy</strong><br>
-        ☁️ "Docker + AWS"
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!-- ============================================================ -->
-<!-- VÍDEOS DE PROJETOS                                           -->
-<!-- ============================================================ -->
-<h2 align="center" style="color: #7B2FBE;">🚀 Projetos em Ação</h2>
-
-<table align="center" width="90%" style="background: #0D1117; border-radius: 20px; padding: 20px; border: 1px solid #1A1A2E;">
-  <tr>
-    <td align="center" width="50%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" style="border-radius: 15px;">
-      <p style="color: #94a3b8; margin-top: 10px;">
-        <strong style="color: #00D4FF;">📊 DataFlow Analytics</strong><br>
-        "Dashboard em tempo real"
-      </p>
-    </td>
-    <td align="center" width="50%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" style="border-radius: 15px;">
-      <p style="color: #94a3b8; margin-top: 10px;">
-        <strong style="color: #7B2FBE;">👁️ VisionAI Suite</strong><br>
-        "Detecção de objetos"
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!-- ============================================================ -->
-<!-- VÍDEOS DE HUMOR EXTRA                                        -->
-<!-- ============================================================ -->
-<h2 align="center" style="color: #FF6B6B;">😂 Memes de Programador</h2>
-
-<table align="center" width="90%" style="background: #0D1117; border-radius: 20px; padding: 20px; border: 1px solid #1A1A2E;">
-  <tr>
-    <td align="center" width="20%" style="padding: 10px;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="100%" style="border-radius: 10px;">
-    </td>
-    <td align="center" width="20%" style="padding: 10px;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="100%" style="border-radius: 10px;">
-    </td>
-    <td align="center" width="20%" style="padding: 10px;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="100%" style="border-radius: 10px;">
-    </td>
-    <td align="center" width="20%" style="padding: 10px;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="100%" style="border-radius: 10px;">
-    </td>
-    <td align="center" width="20%" style="padding: 10px;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="100%" style="border-radius: 10px;">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 5px;">
-      <p style="color: #94a3b8; font-size: 0.7em;">👨‍💻 Programador</p>
-    </td>
-    <td align="center" style="padding: 5px;">
-      <p style="color: #94a3b8; font-size: 0.7em;">🤯 Debug</p>
-    </td>
-    <td align="center" style="padding: 5px;">
-      <p style="color: #94a3b8; font-size: 0.7em;">😎 Deploy</p>
-    </td>
-    <td align="center" style="padding: 5px;">
-      <p style="color: #94a3b8; font-size: 0.7em;">😴 Café</p>
-    </td>
-    <td align="center" style="padding: 5px;">
-      <p style="color: #94a3b8; font-size: 0.7em;">🎉 Sucesso</p>
     </td>
   </tr>
 </table>
@@ -382,7 +237,7 @@
 </table>
 
 <!-- ============================================================ -->
-<!-- PROJETOS DESTAQUE COM GIFS                                   -->
+<!-- PROJETOS DESTAQUE                                            -->
 <!-- ============================================================ -->
 <h2 align="center" style="color: #FF6B6B;">🚀 Projetos em Destaque</h2>
 
@@ -396,7 +251,6 @@
       <p><strong style="color: #00D4FF;">PostgreSQL · Supabase</strong></p>
       <p style="color: #94a3b8; font-size: 0.9em;">Pipeline de dados em tempo real</p>
       <br>
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="30px">
       <span style="background: rgba(0,212,255,0.15); padding: 4px 12px; border-radius: 20px; color: #00D4FF;">PostgreSQL</span>
       <span style="background: rgba(62,207,142,0.15); padding: 4px 12px; border-radius: 20px; color: #3ECF8E;">Supabase</span>
     </td>
@@ -408,7 +262,6 @@
       <p><strong style="color: #7B2FBE;">OpenCV · YOLO</strong></p>
       <p style="color: #94a3b8; font-size: 0.9em;">Detecção de objetos e OCR</p>
       <br>
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="30px">
       <span style="background: rgba(92,62,232,0.15); padding: 4px 12px; border-radius: 20px; color: #5C3EE8;">OpenCV</span>
       <span style="background: rgba(255,111,0,0.15); padding: 4px 12px; border-radius: 20px; color: #FF6F00;">TensorFlow</span>
     </td>
@@ -420,7 +273,6 @@
       <p><strong style="color: #FF6B6B;">Next.js · FastAPI</strong></p>
       <p style="color: #94a3b8; font-size: 0.9em;">Plataforma full-stack</p>
       <br>
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="30px">
       <span style="background: rgba(0,0,0,0.15); padding: 4px 12px; border-radius: 20px; color: #000;">Next.js</span>
       <span style="background: rgba(0,150,136,0.15); padding: 4px 12px; border-radius: 20px; color: #009688;">FastAPI</span>
     </td>
@@ -446,7 +298,7 @@
 </p>
 
 <!-- ============================================================ -->
-<!-- ESPECIALIZAÇÕES COM GIFS                                     -->
+<!-- ESPECIALIZAÇÕES                                              -->
 <!-- ============================================================ -->
 <h2 align="center" style="color: #7B2FBE;">🏆 Especializações</h2>
 
@@ -454,25 +306,21 @@
   <tr>
     <td align="center" width="25%" style="background: #0D1117; border-radius: 15px; padding: 20px; border: 1px solid #1A1A2E;">
       <span style="font-size: 3em;">🎯</span>
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="40px" style="border-radius: 10px; margin: 5px 0;">
       <h4 style="color: #7B2FBE; margin: 10px 0 5px;">Object Detection</h4>
       <p style="color: #94a3b8; margin: 0;">YOLO · SSD · R-CNN</p>
     </td>
     <td align="center" width="25%" style="background: #0D1117; border-radius: 15px; padding: 20px; border: 1px solid #1A1A2E;">
       <span style="font-size: 3em;">👤</span>
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="40px" style="border-radius: 10px; margin: 5px 0;">
       <h4 style="color: #7B2FBE; margin: 10px 0 5px;">Face Recognition</h4>
       <p style="color: #94a3b8; margin: 0;">FaceNet · OpenFace</p>
     </td>
     <td align="center" width="25%" style="background: #0D1117; border-radius: 15px; padding: 20px; border: 1px solid #1A1A2E;">
       <span style="font-size: 3em;">📝</span>
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="40px" style="border-radius: 10px; margin: 5px 0;">
       <h4 style="color: #7B2FBE; margin: 10px 0 5px;">OCR</h4>
       <p style="color: #94a3b8; margin: 0;">Tesseract · EasyOCR</p>
     </td>
     <td align="center" width="25%" style="background: #0D1117; border-radius: 15px; padding: 20px; border: 1px solid #1A1A2E;">
       <span style="font-size: 3em;">🧠</span>
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="40px" style="border-radius: 10px; margin: 5px 0;">
       <h4 style="color: #7B2FBE; margin: 10px 0 5px;">Deep Learning</h4>
       <p style="color: #94a3b8; margin: 0;">CNN · RNN · GANs</p>
     </td>
@@ -480,14 +328,13 @@
 </table>
 
 <!-- ============================================================ -->
-<!-- SQL EXPERTISE COM GIF                                        -->
+<!-- SQL EXPERTISE                                                -->
 <!-- ============================================================ -->
 <h2 align="center" style="color: #00D4FF;">📈 SQL Expertise</h2>
 
 <table align="center" width="80%" style="background: #0D1117; border-radius: 20px; padding: 20px; border: 1px solid #1A1A2E;">
   <tr>
     <td width="50%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="30px" style="border-radius: 5px; float: left; margin-right: 10px;">
       <h4 style="color: #00D4FF; margin: 0;">🔹 Advanced Queries</h4>
       <p style="color: #94a3b8;">CTEs · Window Functions · Recursive</p>
       <div style="background: #1A1A2E; height: 6px; border-radius: 3px;">
@@ -495,7 +342,6 @@
       </div>
     </td>
     <td width="50%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="30px" style="border-radius: 5px; float: left; margin-right: 10px;">
       <h4 style="color: #7B2FBE; margin: 0;">🔹 Optimization</h4>
       <p style="color: #94a3b8;">Indexing · Query Tuning · Explain</p>
       <div style="background: #1A1A2E; height: 6px; border-radius: 3px;">
@@ -505,7 +351,6 @@
   </tr>
   <tr>
     <td width="50%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="30px" style="border-radius: 5px; float: left; margin-right: 10px;">
       <h4 style="color: #3ECF8E; margin: 0;">🔹 Supabase</h4>
       <p style="color: #94a3b8;">Realtime · RLS · Edge Functions</p>
       <div style="background: #1A1A2E; height: 6px; border-radius: 3px;">
@@ -513,7 +358,6 @@
       </div>
     </td>
     <td width="50%" style="padding: 15px;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="30px" style="border-radius: 5px; float: left; margin-right: 10px;">
       <h4 style="color: #FF6B6B; margin: 0;">🔹 Data Modeling</h4>
       <p style="color: #94a3b8;">ERD · Normalization · Star Schema</p>
       <div style="background: #1A1A2E; height: 6px; border-radius: 3px;">
@@ -524,32 +368,28 @@
 </table>
 
 <!-- ============================================================ -->
-<!-- ROADMAP 2025 COM GIF                                        -->
+<!-- ROADMAP 2025                                                 -->
 <!-- ============================================================ -->
 <h2 align="center" style="color: #FF6B6B;">🎯 Roadmap 2025</h2>
 
 <table align="center" width="90%">
   <tr>
     <td align="center" width="25%" style="background: rgba(0,212,255,0.05); border-radius: 15px; padding: 20px; border-left: 4px solid #00D4FF;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="30px" style="border-radius: 5px;">
       <span style="font-size: 2.5em;">🛢️</span>
       <h4 style="color: #00D4FF; margin: 5px 0;">Advanced SQL</h4>
       <p style="color: #94a3b8; font-size: 0.85em;">PL/pgSQL Mastery</p>
     </td>
     <td align="center" width="25%" style="background: rgba(123,47,190,0.05); border-radius: 15px; padding: 20px; border-left: 4px solid #7B2FBE;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="30px" style="border-radius: 5px;">
       <span style="font-size: 2.5em;">🖼️</span>
       <h4 style="color: #7B2FBE; margin: 5px 0;">CV Models</h4>
       <p style="color: #94a3b8; font-size: 0.85em;">YOLO + Transformers</p>
     </td>
     <td align="center" width="25%" style="background: rgba(62,207,142,0.05); border-radius: 15px; padding: 20px; border-left: 4px solid #3ECF8E;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="30px" style="border-radius: 5px;">
       <span style="font-size: 2.5em;">☁️</span>
       <h4 style="color: #3ECF8E; margin: 5px 0;">Supabase Pro</h4>
       <p style="color: #94a3b8; font-size: 0.85em;">Edge Functions</p>
     </td>
     <td align="center" width="25%" style="background: rgba(255,107,107,0.05); border-radius: 15px; padding: 20px; border-left: 4px solid #FF6B6B;">
-      <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="30px" style="border-radius: 5px;">
       <span style="font-size: 2.5em;">⚡</span>
       <h4 style="color: #FF6B6B; margin: 5px 0;">Full-Stack</h4>
       <p style="color: #94a3b8; font-size: 0.85em;">Next.js 14</p>
@@ -581,7 +421,7 @@
 </p>
 
 <!-- ============================================================ -->
-<!-- FOOTER COM GIF                                               -->
+<!-- FOOTER                                                        -->
 <!-- ============================================================ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1A1A2E,100:16213E&height=120&section=footer" width="100%">
@@ -589,20 +429,16 @@
 
 <p align="center" style="color: #4a4a4a;">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">
-  <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="30px" style="border-radius: 10px;">
   <span style="background: linear-gradient(135deg, #00D4FF, #7B2FBE, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700; font-size: 1.1em;">
     ✦ Turning data into intelligence, pixels into insights ✦
   </span>
-  <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="30px" style="border-radius: 10px;">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">
 </p>
 
 <p align="center" style="color: #4a4a4a; font-size: 0.85em;">
-  <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="20px" style="border-radius: 5px;">
   ❤️ Built with passion by <strong>Bruno Ragner</strong> &nbsp;·&nbsp;
   🛢️ Data Engineer &nbsp;·&nbsp;
   🖼️ CV Developer &nbsp;·&nbsp;
   ⚡ Full-Stack Architect &nbsp;·&nbsp;
   © 2025
-  <img src="https://media.giphy.com/media/3o6Zt8iY5xVPPmV7AQ/giphy.gif" width="20px" style="border-radius: 5px;">
 </p>
