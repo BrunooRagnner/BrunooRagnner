@@ -58,13 +58,13 @@
 <hr style="width: 80%; border: none; height: 2px; background: linear-gradient(90deg, transparent, #00D4FF, #7B2FBE, #FF6B6B, transparent); margin: 30px auto;">
 
 <!-- ============================================================ -->
-<!-- SOBRE MIM                                                     -->
+<!-- SOBRE MIM COM GIFS ENGRAÇADOS                                 -->
 <!-- ============================================================ -->
 <h2 align="center" style="color: #00D4FF;">🎯 Sobre Mim</h2>
 
 <table align="center" width="90%" style="background: #0D1117; border-radius: 20px; padding: 20px; border: 1px solid #1A1A2E;">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <div style="display: flex; flex-direction: column; gap: 12px;">
         <div style="background: rgba(0,212,255,0.05); padding: 12px; border-radius: 10px; border-left: 4px solid #00D4FF;">
           <strong style="color: #00D4FF;">🛢️ Data & SQL</strong>
@@ -88,8 +88,48 @@
         </div>
       </div>
     </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 8px 40px rgba(0,212,255,0.1);">
+    <td width="45%" align="center">
+      <!-- GIF ENGRAÇADO 1 - Programador trabalhando -->
+      <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 8px 40px rgba(0,212,255,0.1); margin-bottom: 10px;">
+      <br>
+      <!-- GIF ENGRAÇADO 2 - Computador explodindo -->
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 8px 40px rgba(123,47,190,0.1);">
+      <br>
+      <p style="color: #64748b; font-size: 0.8em; margin-top: 10px;">
+        <span style="color: #FF6B6B;">❤️</span> Quando o código finalmente compila 
+        <span style="color: #FF6B6B;">❤️</span>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- ============================================================ -->
+<!-- SEÇÃO DE HUMOR - GIFS ENGRAÇADOS                             -->
+<!-- ============================================================ -->
+<h2 align="center" style="color: #7B2FBE;">😂 Dia a Dia de um Dev</h2>
+
+<table align="center" width="90%" style="background: #0D1117; border-radius: 20px; padding: 20px; border: 1px solid #1A1A2E;">
+  <tr>
+    <td align="center" width="33%" style="padding: 15px;">
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" style="border-radius: 15px;">
+      <p style="color: #94a3b8; margin-top: 10px;">
+        <strong style="color: #00D4FF;">Quando encontro um bug</strong><br>
+        😱 "Mas funcionava na minha máquina!"
+      </p>
+    </td>
+    <td align="center" width="33%" style="padding: 15px;">
+      <img src="https://media.giphy.com/media/LpU0BcQvv8zLi/giphy.gif" width="100%" style="border-radius: 15px;">
+      <p style="color: #94a3b8; margin-top: 10px;">
+        <strong style="color: #7B2FBE;">Quando o deploy dá certo</strong><br>
+        🎉 "É isso aí, mais um projeto no ar!"
+      </p>
+    </td>
+    <td align="center" width="33%" style="padding: 15px;">
+      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8M/giphy.gif" width="100%" style="border-radius: 15px;">
+      <p style="color: #94a3b8; margin-top: 10px;">
+        <strong style="color: #FF6B6B;">Revisando código dos outros</strong><br>
+        🤔 "Quem escreveu isso? Ah, fui eu..."
+      </p>
     </td>
   </tr>
 </table>
