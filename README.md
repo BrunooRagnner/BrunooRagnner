@@ -1,8 +1,8 @@
-<!-- ========================================================= -->
+<!-- ============================================================ -->
 
-<!-- CAPA FUTURISTA                                             -->
+<!-- HERO -->
 
-<!-- ========================================================= -->
+<!-- ============================================================ -->
 
 <p align="center">
   <img
@@ -13,18 +13,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=🤖+AI+Developer+Júnior;🐍+Python+%7C+PyTorch+%7C+Computer+Vision;⚡+FastAPI+%7C+APIs+Inteligentes;🎨+Vue.js+%7C+Interfaces+Modernas;🚀+Transformando+ideias+em+soluções+inteligentes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=900&color=00D4FF&center=true&vCenter=true&width=900&height=50&lines=🤖+AI+Developer+Júnior;🐍+Python+%7C+PyTorch+%7C+Computer+Vision;⚡+FastAPI+%7C+APIs+%7C+Machine+Learning;🎨+Vue.js+%7C+Interfaces+Modernas;🚀+Construindo+soluções+inteligentes+para+problemas+reais" />
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=BrunooRagnner&label=VISITAS&color=00D4FF&style=for-the-badge" />
+<a href="https://github.com/BrunooRagnner">
+<img src="https://img.shields.io/badge/GitHub-BrunooRagnner-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img src="https://img.shields.io/badge/AI-JÚNIOR-00D4FF?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-<img src="https://img.shields.io/badge/PyTorch-DEEP%20LEARNING-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<a href="https://www.linkedin.com/in/bruno-gomes-6266a8358">
+<img src="https://img.shields.io/badge/LinkedIn-Bruno%20Ragner-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </p>
 
@@ -32,58 +32,178 @@
 
 # 👋 Olá, eu sou Bruno Ragner
 
-### 🤖 AI Developer Júnior | Python | Computer Vision | FastAPI | Vue.js
+## 🤖 AI Developer Júnior | Python | Computer Vision | FastAPI | Vue.js
 
-Estou construindo minha carreira na área de **Inteligência Artificial**, com foco em transformar problemas reais em aplicações inteligentes.
+Estou construindo minha carreira em **Inteligência Artificial e Desenvolvimento de Software**, com foco em transformar ideias e problemas reais em aplicações funcionais.
 
-Meu principal objetivo é desenvolver sistemas utilizando:
+Meu foco atual está em:
 
-* 🐍 **Python**
-* 🧠 **Machine Learning**
-* 🔥 **PyTorch**
-* 👁️ **Computer Vision**
-* 📷 **OpenCV**
-* ⚡ **FastAPI**
-* 🎨 **Vue.js**
-* 🗄️ **PostgreSQL**
-* 🐳 **Docker**
-* 🌐 **APIs REST**
+```text
+🐍 Python
+      │
+      ├── 🧠 Machine Learning
+      ├── 🔥 PyTorch
+      ├── 👁️ Computer Vision
+      └── 📊 Data
 
-> **Aprender → Construir → Testar → Melhorar → Colocar em produção.**
+⚡ FastAPI
+      │
+      └── APIs para aplicações e modelos de IA
+
+🎨 Vue.js
+      │
+      └── Interfaces e dashboards
+
+🗄️ PostgreSQL
+      │
+      └── Dados e aplicações
+
+🐳 Docker
+      │
+      └── Ambientes e deploy
+```
+
+> **Meu objetivo: entrar na área de IA, aprender continuamente e contribuir na construção de produtos que gerem impacto real.**
 
 ---
 
-# 🧠 Minha área principal
+# 🧠 O que estou construindo
+
+Não quero ficar apenas estudando IA.
+
+Quero **construir projetos completos**.
 
 ```text
-                    🤖 INTELIGÊNCIA ARTIFICIAL
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-       🧠 MACHINE        👁️ COMPUTER       📊 DATA
-          LEARNING           VISION
-             │                │                │
-             ▼                ▼                ▼
-          PyTorch          OpenCV          PostgreSQL
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
-                              ▼
-                       ⚡ FASTAPI
-                              │
-                              ▼
-                         🎨 VUE.JS
-                              │
-                              ▼
-                    🚀 APLICAÇÃO COMPLETA
+                  💡 PROBLEMA REAL
+                         │
+                         ▼
+                    🐍 PYTHON
+                         │
+              ┌──────────┴──────────┐
+              ▼                     ▼
+        🧠 MACHINE LEARNING     👁️ COMPUTER VISION
+              │                     │
+              └──────────┬──────────┘
+                         ▼
+                     🔥 PYTORCH
+                         │
+                         ▼
+                     ⚡ FASTAPI
+                         │
+                         ▼
+                      🎨 VUE.JS
+                         │
+                         ▼
+                  🚀 PRODUTO REAL
 ```
 
 ---
 
-# 🛠️ Tecnologias
+# 🚀 Projetos em destaque
 
-## 🐍 Python & Inteligência Artificial
+## 🤖 CyvroTech PDV IA
+
+Sistema de gestão comercial desenvolvido para pequenos negócios.
+
+### O projeto trabalha com:
+
+* 🛒 PDV
+* 📦 Estoque
+* 💰 Financeiro
+* 📊 Dashboard
+* 👥 Usuários e permissões
+* 📈 Relatórios
+* 💾 Backup
+* 📱 PWA
+* 🤖 Recursos de Inteligência Artificial
+
+### Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
+</p>
+
+---
+
+## 🌱 AgroVision
+
+Projeto de **Visão Computacional aplicada ao agronegócio**.
+
+A ideia é utilizar imagens de plantas para identificar padrões, alterações e possíveis problemas através de modelos de Inteligência Artificial.
+
+### Pipeline
+
+```text
+📷 IMAGEM
+   ↓
+🧹 PROCESSAMENTO
+   ↓
+📊 DATASET
+   ↓
+🧠 TREINAMENTO
+   ↓
+🔥 PYTORCH
+   ↓
+👁️ VISÃO COMPUTACIONAL
+   ↓
+⚡ FASTAPI
+   ↓
+📊 RESULTADO
+```
+
+### Tecnologias
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+</p>
+
+---
+
+# 🧪 Laboratório de Inteligência Artificial
+
+Estou constantemente criando pequenos projetos para transformar conhecimento teórico em prática.
+
+### 🧠 Machine Learning
+
+* Redes neurais
+* CNN
+* Classificação de imagens
+* Treinamento de modelos
+* Dataset
+* Validação
+* Funções de perda
+* Otimização
+* Transfer Learning
+
+### 👁️ Computer Vision
+
+* OpenCV
+* Processamento de imagens
+* Detecção de objetos
+* Classificação
+* Segmentação
+* Análise de imagens
+
+### ⚡ AI Engineering
+
+* FastAPI
+* APIs REST
+* Inferência de modelos
+* Upload e processamento de imagens
+* Integração IA + Backend
+* Docker
+
+---
+
+# 🛠️ Minha Stack
+
+## 🤖 AI / Machine Learning
 
 <p align="center">
 
@@ -93,111 +213,31 @@ Meu principal objetivo é desenvolver sistemas utilizando:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Computer%20Vision-00D4FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 
 </p>
 
-### Atualmente estudando e desenvolvendo:
-
-* Redes Neurais
-* CNN
-* Classificação de imagens
-* Detecção de objetos
-* Processamento de imagens
-* Dataset e treinamento
-* Transfer Learning
-* PyTorch
-* OpenCV
-* Inferência de modelos
-* APIs para modelos de IA
-
----
-
-# 👁️ Computer Vision
-
-Minha principal área de interesse dentro da IA é **Visão Computacional**.
-
-```text
-📷 Imagem
-   │
-   ▼
-🧹 Pré-processamento
-   │
-   ▼
-🧠 Modelo de IA
-   │
-   ▼
-🔎 Detecção / Classificação
-   │
-   ▼
-📊 Resultado
-   │
-   ▼
-⚡ API FastAPI
-   │
-   ▼
-🎨 Interface Vue.js
-```
-
-### Tecnologias
-
-* OpenCV
-* PyTorch
-* CNN
-* YOLO
-* NumPy
-* Python
-* Image Processing
-* Object Detection
-* Image Classification
-
----
-
-# ⚡ Backend
+## ⚡ Backend
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,docker" />
 
 </p>
 
-### 🐍 FastAPI
+<p align="center">
 
-Utilizo **FastAPI** para construir APIs modernas em Python, principalmente para conectar aplicações web aos modelos e serviços de IA.
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/REST%20API-00D4FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
-```text
-Vue.js
-   │
-   │ HTTP / REST
-   ▼
-FastAPI
-   │
-   ├── 🔐 Autenticação
-   ├── 📊 Banco de dados
-   ├── 📷 Upload de imagens
-   ├── 🤖 Modelo de IA
-   └── 📈 Resultados
-```
+</p>
 
-### Backend
-
-* Python
-* FastAPI
-* REST API
-* Pydantic
-* SQL
-* PostgreSQL
-* SQLite
-* Docker
-* JWT
-* APIs para Machine Learning
-
----
-
-# 🎨 Frontend
+## 🎨 Frontend
 
 <p align="center">
 
@@ -205,125 +245,34 @@ FastAPI
 
 </p>
 
-Meu foco no frontend é utilizar **Vue.js** para criar interfaces simples, modernas e conectadas às APIs Python.
+## 🔧 Ferramentas
 
-### Frontend
+<p align="center">
 
-* Vue.js
-* JavaScript
-* TypeScript
-* HTML
-* CSS
-* Tailwind CSS
-* APIs REST
-* Dashboards
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+</p>
 
 ---
 
-# 🚀 Projetos
+# 🎯 Por que IA?
 
-## 🤖 CyvroTech PDV IA
+A tecnologia que mais me chama atenção é a capacidade de transformar **dados em decisões e imagens em informação**.
 
-Sistema SaaS para pequenos comércios.
+Quero trabalhar na interseção entre:
 
-### Funcionalidades
-
-* 🧾 PDV
-* 📦 Estoque
-* 💰 Financeiro
-* 🛒 Vendas
-* 👥 Usuários e permissões
-* 📊 Dashboard
-* 📈 Relatórios
-* 💾 Backup
-* 📱 PWA
-* 🤖 Recursos de IA
-
-### Stack
+**Software + Dados + Inteligência Artificial.**
 
 ```text
-Frontend → Vue.js
-Backend  → Python / FastAPI
-Database → PostgreSQL
-Deploy   → Cloud
-```
-
----
-
-## 🌱 AgroVision
-
-Projeto de **Inteligência Artificial aplicada ao agronegócio**.
-
-Objetivo:
-
-> Utilizar imagens de plantas para identificar padrões, alterações e possíveis problemas através de Visão Computacional.
-
-### Pipeline
-
-```text
-📷 Foto da plantação
-        │
-        ▼
-   OpenCV / Python
-        │
-        ▼
-    Dataset
-        │
-        ▼
-     PyTorch
-        │
-        ▼
-   🧠 Modelo IA
-        │
-        ▼
- Classificação / Detecção
-        │
-        ▼
-      FastAPI
-        │
-        ▼
-    Dashboard
-```
-
-### Tecnologias
-
-* Python
-* PyTorch
-* OpenCV
-* NumPy
-* Machine Learning
-* Computer Vision
-* FastAPI
-
----
-
-# 🧪 Laboratório de IA
-
-Também utilizo pequenos projetos para estudar e testar conceitos.
-
-```text
-🧠 Neural Networks
-      │
-      ├── CNN
-      ├── Classification
-      ├── Training
-      ├── Validation
-      ├── Loss Functions
-      └── Optimization
-
-👁️ Computer Vision
-      │
-      ├── OpenCV
-      ├── Image Processing
-      ├── Object Detection
-      └── Image Classification
-
-⚡ AI APIs
-      │
-      ├── FastAPI
-      ├── Model Inference
-      ├── Upload Images
-      └── REST API
+              SOFTWARE
+                 │
+                 ▼
+        ┌─────────────────┐
+        │       IA        │
+        └─────────────────┘
+          ▲      ▲      ▲
+          │      │      │
+       DADOS   IMAGEM  CÓDIGO
 ```
 
 ---
@@ -332,99 +281,133 @@ Também utilizo pequenos projetos para estudar e testar conceitos.
 
 ### 🤖 Inteligência Artificial
 
-* [x] Python
-* [x] NumPy
-* [x] Fundamentos de Machine Learning
-* [x] OpenCV
-* [x] Redes Neurais
-* [x] PyTorch
-* [ ] CNN avançadas
-* [ ] Object Detection
-* [ ] YOLO
-* [ ] Transformers
-* [ ] Model Deployment
+* 🐍 Python
+* 🧠 Machine Learning
+* 🔥 PyTorch
+* 👁️ Computer Vision
+* 📷 OpenCV
+* 🧬 Redes Neurais
+* 🎯 Object Detection
+* 🧠 Deep Learning
 
-### ⚡ Backend
+### ⚡ Desenvolvimento
 
-* [x] Python
-* [x] FastAPI
-* [x] REST API
-* [x] SQL
-* [ ] Arquitetura de APIs
-* [ ] JWT avançado
-* [ ] Docker
-* [ ] Deploy de modelos de IA
+* FastAPI
+* APIs REST
+* PostgreSQL
+* Docker
+* Vue.js
+* TypeScript
+* Git / GitHub
 
-### 🎨 Frontend
+### 🚀 Próximos passos
 
-* [x] HTML
-* [x] CSS
-* [x] JavaScript
-* [x] Vue.js
-* [ ] TypeScript avançado
-* [ ] Arquitetura de aplicações Vue
-* [ ] Dashboards para IA
+* YOLO
+* Transformers
+* Model Deployment
+* MLOps
+* Cloud
+* LLMs
+* AI Agents
 
 ---
 
-# 🎯 Roadmap
+# 📈 Minha evolução
 
 ```text
-2026
+2024
+ │
+ └── 💻 Desenvolvimento
+          │
+          ▼
+2025
  │
  ├── 🐍 Python
+ ├── 🌐 Web
+ └── 📊 Dados
+          │
+          ▼
+2026
  │
- ├── 🧠 Machine Learning
- │
+ ├── 🤖 Inteligência Artificial
  ├── 🔥 PyTorch
- │
  ├── 👁️ Computer Vision
- │
  ├── ⚡ FastAPI
- │
  └── 🎨 Vue.js
-       │
-       ▼
+          │
+          ▼
 2027
  │
- ├── 🤖 Deep Learning
- ├── 👁️ Computer Vision avançada
- ├── 🎯 Object Detection
- ├── 🧠 Transformers
- ├── ☁️ Deploy de modelos
- ├── 🐳 Docker
- └── 🚀 AI Applications em produção
+ ├── 🧠 Deep Learning
+ ├── 🎯 Computer Vision avançada
+ ├── 🚀 Deploy de modelos
+ ├── ☁️ Cloud
+ └── 🤖 AI Engineering
 ```
 
 ---
 
-# 📊 GitHub Analytics
+# 💻 Como eu gosto de trabalhar
+
+```text
+🔎 ENTENDER O PROBLEMA
+        ↓
+💡 DEFINIR A SOLUÇÃO
+        ↓
+🐍 DESENVOLVER
+        ↓
+🧪 TESTAR
+        ↓
+📊 ANALISAR RESULTADOS
+        ↓
+🔧 MELHORAR
+        ↓
+🚀 COLOCAR EM PRODUÇÃO
+```
+
+---
+
+# 🏆 O que você encontrará neste GitHub
+
+```text
+🐍 Python Projects
+        +
+🤖 Artificial Intelligence
+        +
+👁️ Computer Vision
+        +
+⚡ FastAPI
+        +
+🎨 Vue.js
+        +
+🗄️ Databases
+        +
+🚀 Real-world Projects
+```
+
+Cada projeto representa uma etapa do meu aprendizado e da minha evolução como desenvolvedor.
+
+---
+
+# 📊 GitHub
 
 <p align="center">
 
 <img
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=BrunooRagnner&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=00D4FF&title_color=00D4FF&icon_color=7B2FBE&text_color=FFFFFF"
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=BrunooRagnner&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF"
 />
 
 <img
-height="180em"
+height="180"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunooRagnner&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=00D4FF&title_color=00D4FF&text_color=FFFFFF"
 />
 
 </p>
 
-<p align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=BrunooRagnner&theme=tokyonight&background=0D1117&border=00D4FF&ring=00D4FF&fire=7B2FBE&currStreakLabel=00D4FF"
-/>
-
-</p>
-
 ---
 
-# 🐍 Contribuições
+# 🐍 Código em constante evolução
 
 <p align="center">
 
@@ -434,73 +417,37 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=BrunooRagnner&theme=
 
 ---
 
-# 💡 Filosofia
+# 🎯 Objetivo profissional
 
-<p align="center">
+### Busco minha oportunidade como:
 
-### "Não quero apenas usar Inteligência Artificial."
+**🤖 AI Developer Júnior**
+**🧠 Machine Learning Júnior**
+**👁️ Computer Vision Júnior**
+**🐍 Python Developer**
+**⚡ Backend Python / FastAPI**
 
-### "Quero aprender a construir soluções com ela."
-
-</p>
-
-```text
-IDEIA
-  ↓
-PYTHON
-  ↓
-DADOS
-  ↓
-MODELO
-  ↓
-IA
-  ↓
-FASTAPI
-  ↓
-VUE.JS
-  ↓
-PRODUTO
-```
+Quero fazer parte de uma equipe onde possa **aprender, contribuir, desenvolver soluções e evoluir profissionalmente na área de Inteligência Artificial.**
 
 ---
 
-# 🌎 Objetivo profissional
-
-Estou buscando oportunidades como:
-
-### 🤖 AI Developer Júnior
-
-### 🧠 Machine Learning Júnior
-
-### 👁️ Computer Vision Júnior
-
-### 🐍 Python Developer
-
-### ⚡ Backend Python / FastAPI
-
-Meu objetivo é trabalhar em projetos onde eu possa:
-
-* desenvolver modelos de IA;
-* trabalhar com dados e imagens;
-* criar APIs Python;
-* integrar modelos de Machine Learning;
-* desenvolver sistemas completos;
-* aprender com profissionais experientes;
-* transformar protótipos em produtos reais.
-
----
-
-# 🤝 Vamos conectar?
+# 🤝 Vamos conversar?
 
 <p align="center">
-
-<a href="https://github.com/BrunooRagnner">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 <a href="https://www.linkedin.com/in/bruno-gomes-6266a8358">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<a href="https://github.com/BrunooRagnner">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+
+📩 **Aberto a oportunidades, projetos e conexões na área de tecnologia e Inteligência Artificial.**
 
 </p>
 
@@ -508,7 +455,7 @@ Meu objetivo é trabalhar em projetos onde eu possa:
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:061A2B,100:00D4FF&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:061A2B,100:00D4FF&height=130&section=footer" width="100%" />
 
 </p>
 
@@ -516,7 +463,7 @@ Meu objetivo é trabalhar em projetos onde eu possa:
 
 ### 🤖 AI • 🐍 Python • 👁️ Computer Vision • ⚡ FastAPI • 🎨 Vue.js
 
-**Transformando ideias em soluções inteligentes.**
+**Transformando código, dados e imagens em soluções inteligentes.**
 
 </p>
 
