@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Bruno Ragner
-
+##Deus Seja Louvado !
 ## 🤖 AI Developer Júnior | Python | Computer Vision | FastAPI | Vue.js
 
 Estou construindo minha carreira em **Inteligência Artificial**, com foco em transformar problemas reais em **sistemas inteligentes e aplicações completas**.
