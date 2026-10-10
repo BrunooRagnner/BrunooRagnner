@@ -1,472 +1,212 @@
-<!-- ============================================================ -->
-
-<!-- HERO -->
-
-<!-- ============================================================ -->
+# 🛡️ Bruno Ragner — SOC Analyst L1 Júnior | Python Developer | AI & Cybersecurity
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/BrunooRagnner/BrunooRagnner/main/assets/banner-ai.png"
-    width="100%"
-    alt="Bruno Ragner - AI Developer Júnior"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=55&lines=SOC+Analyst+L1+J%C3%BAnior;Python+%7C+FastAPI+%7C+Cybersecurity;SQL+%7C+SQLite+%7C+PostgreSQL;Vue.js+%7C+JavaScript+%7C+HTML+%7C+CSS;AI+aplicada+%C3%A0+seguran%C3%A7a+cibern%C3%A9tica" alt="Especialidades em tecnologia"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=900&color=00D4FF&center=true&vCenter=true&width=900&height=50&lines=🤖+AI+Developer+Júnior;🐍+Python+%7C+PyTorch+%7C+Computer+Vision;⚡+FastAPI+%7C+APIs+%7C+Machine+Learning;🎨+Vue.js+%7C+Interfaces+Modernas;🚀+Construindo+soluções+inteligentes+para+problemas+reais" />
-</p>
-
-<p align="center">
-
-<a href="https://github.com/BrunooRagnner">
-<img src="https://img.shields.io/badge/GitHub-BrunooRagnner-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/bruno-gomes-6266a8358">
-<img src="https://img.shields.io/badge/LinkedIn-Bruno%20Ragner-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
+  <a href="https://github.com/BrunooRagnner">
+    <img src="https://img.shields.io/badge/GitHub-BrunooRagnner-0D1117?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bruno-gomes-6266a8358">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 ---
 
-# 👋 Olá, eu sou Bruno Ragner
+## 👨‍💻 Sobre mim
 
-## 🤖 AI Developer Júnior | Python | Computer Vision | FastAPI | Vue.js
+Estou desenvolvendo minha carreira nas áreas de **Cibersegurança, SOC, Backend Python e Inteligência Artificial**.
 
-Estou construindo minha carreira em **Inteligência Artificial e Desenvolvimento de Software**, com foco em transformar ideias e problemas reais em aplicações funcionais.
+Meu objetivo é unir análise de segurança, programação e automação para construir ferramentas capazes de auxiliar na identificação, investigação e resposta a incidentes.
 
-Meu foco atual está em:
+Tenho experiência profissional na área elétrica e atuação com sistemas de alarme, CFTV e controle de acesso. Também estudo desenvolvimento de software e Inteligência Artificial, aplicando o conhecimento em projetos práticos.
 
-```text
-🐍 Python
-      │
-      ├── 🧠 Machine Learning
-      ├── 🔥 PyTorch
-      ├── 👁️ Computer Vision
-      └── 📊 Data
+### 🎯 Áreas de interesse
 
-⚡ FastAPI
-      │
-      └── APIs para aplicações e modelos de IA
-
-🎨 Vue.js
-      │
-      └── Interfaces e dashboards
-
-🗄️ PostgreSQL
-      │
-      └── Dados e aplicações
-
-🐳 Docker
-      │
-      └── Ambientes e deploy
-```
-
-> **Meu objetivo: entrar na área de IA, aprender continuamente e contribuir na construção de produtos que gerem impacto real.**
+* 🛡️ SOC Analyst L1 — monitoramento e triagem de alertas.
+* 🔍 Análise de logs, eventos e tráfego de rede.
+* 🚨 Detecção e resposta a incidentes.
+* 🐍 Python para automação e ferramentas de segurança.
+* ⚡ FastAPI e desenvolvimento de APIs REST.
+* 🧠 Inteligência Artificial aplicada à análise de eventos.
+* 🗄️ SQL, SQLite e PostgreSQL.
+* 🎨 Vue.js, JavaScript, HTML5 e CSS3.
+* 🐳 Docker, Linux e Git.
 
 ---
 
-# 🧠 O que estou construindo
+## 🛡️ Cybersecurity & SOC Lab
 
-Não quero ficar apenas estudando IA.
+Estou construindo um laboratório prático para estudar operações de segurança e desenvolver habilidades relacionadas ao trabalho de um SOC Analyst L1.
 
-Quero **construir projetos completos**.
+### Competências em desenvolvimento
 
-```text
-                  💡 PROBLEMA REAL
-                         │
-                         ▼
-                    🐍 PYTHON
-                         │
-              ┌──────────┴──────────┐
-              ▼                     ▼
-        🧠 MACHINE LEARNING     👁️ COMPUTER VISION
-              │                     │
-              └──────────┬──────────┘
-                         ▼
-                     🔥 PYTORCH
-                         │
-                         ▼
-                     ⚡ FASTAPI
-                         │
-                         ▼
-                      🎨 VUE.JS
-                         │
-                         ▼
-                  🚀 PRODUTO REAL
-```
+* Monitoramento e triagem de alertas.
+* Investigação inicial de incidentes.
+* Análise de logs de Linux e aplicações.
+* Fundamentos de redes e protocolos.
+* Identificação e priorização de vulnerabilidades.
+* Uso de ferramentas de segurança em ambientes autorizados.
+* Documentação de incidentes e elaboração de relatórios.
+* Automação de tarefas com Python.
+* Conceitos de SIEM, detecção e resposta.
+
+### Ferramentas e tecnologias de estudo
+
+Linux • Docker • Nmap • Wireshark • OWASP Juice Shop • Python
+
+> Os conhecimentos e as ferramentas serão apresentados conforme forem efetivamente praticados e documentados nos projetos.
 
 ---
 
-# 🚀 Projetos em destaque
+## 🐍 Python & Backend
 
-## 🤖 CyvroTech PDV IA
+Utilizo Python como linguagem principal para estudar desenvolvimento de APIs, automação e ferramentas inteligentes.
 
-Sistema de gestão comercial desenvolvido para pequenos negócios.
+**Tecnologias:**
 
-### O projeto trabalha com:
+* Python
+* FastAPI
+* APIs REST
+* SQL e integração com bancos de dados
+* Automação de tarefas
+* Testes e tratamento de erros
+* Docker
 
-* 🛒 PDV
-* 📦 Estoque
-* 💰 Financeiro
-* 📊 Dashboard
-* 👥 Usuários e permissões
-* 📈 Relatórios
-* 💾 Backup
-* 📱 PWA
-* 🤖 Recursos de Inteligência Artificial
+### Projetos que pretendo desenvolver
 
-### Stack
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
-</p>
+* Analisador de logs com Python.
+* API para registro e consulta de incidentes.
+* Ferramenta de triagem de eventos de segurança.
+* Dashboard de alertas integrado a uma API.
+* Automação de relatórios de incidentes.
 
 ---
 
-## 🌱 AgroVision
+## 🧠 Inteligência Artificial
 
-Projeto de **Visão Computacional aplicada ao agronegócio**.
+Estudo Inteligência Artificial com foco em aplicações práticas, incluindo análise de dados, Machine Learning e Visão Computacional.
 
-A ideia é utilizar imagens de plantas para identificar padrões, alterações e possíveis problemas através de modelos de Inteligência Artificial.
+**Tecnologias de interesse:**
 
-### Pipeline
-
-```text
-📷 IMAGEM
-   ↓
-🧹 PROCESSAMENTO
-   ↓
-📊 DATASET
-   ↓
-🧠 TREINAMENTO
-   ↓
-🔥 PYTORCH
-   ↓
-👁️ VISÃO COMPUTACIONAL
-   ↓
-⚡ FASTAPI
-   ↓
-📊 RESULTADO
-```
-
-### Tecnologias
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-</p>
-
----
-
-# 🧪 Laboratório de Inteligência Artificial
-
-Estou constantemente criando pequenos projetos para transformar conhecimento teórico em prática.
-
-### 🧠 Machine Learning
-
-* Redes neurais
-* CNN
-* Classificação de imagens
-* Treinamento de modelos
-* Dataset
-* Validação
-* Funções de perda
-* Otimização
-* Transfer Learning
-
-### 👁️ Computer Vision
-
+* Python
+* NumPy
 * OpenCV
-* Processamento de imagens
-* Detecção de objetos
-* Classificação
-* Segmentação
-* Análise de imagens
+* PyTorch
+* Machine Learning
+* Classificação e detecção de anomalias
+* Integração de modelos com FastAPI
 
-### ⚡ AI Engineering
-
-* FastAPI
-* APIs REST
-* Inferência de modelos
-* Upload e processamento de imagens
-* Integração IA + Backend
-* Docker
+Meu objetivo é explorar como a IA pode apoiar a análise de eventos, a identificação de padrões e a priorização de alertas, sem substituir a validação do analista.
 
 ---
 
-# 🛠️ Minha Stack
+## 🗄️ Banco de dados & SQL
 
-## 🤖 AI / Machine Learning
+Estudo modelagem de dados, consultas SQL e integração de bancos de dados com aplicações Python.
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-
-</p>
-
-## ⚡ Backend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,docker" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/REST%20API-00D4FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-
-</p>
-
-## 🎨 Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vue,typescript,javascript,html,css,tailwind" />
-
-</p>
-
-## 🔧 Ferramentas
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-
-</p>
+* **SQLite:** protótipos, laboratórios e aplicações locais.
+* **PostgreSQL:** aplicações com múltiplos usuários e maior necessidade de robustez.
+* SQL: SELECT, JOIN, GROUP BY, subconsultas e agregações.
+* Modelagem relacional, chaves primárias e estrangeiras.
+* Índices, transações e integridade dos dados.
+* Consultas parametrizadas e prevenção de SQL Injection.
 
 ---
 
-# 🎯 Por que IA?
+## 🎨 Frontend & Dashboards
 
-A tecnologia que mais me chama atenção é a capacidade de transformar **dados em decisões e imagens em informação**.
+Desenvolvo interfaces web e estudo como apresentar dados técnicos de maneira clara.
 
-Quero trabalhar na interseção entre:
-
-**Software + Dados + Inteligência Artificial.**
-
-```text
-              SOFTWARE
-                 │
-                 ▼
-        ┌─────────────────┐
-        │       IA        │
-        └─────────────────┘
-          ▲      ▲      ▲
-          │      │      │
-       DADOS   IMAGEM  CÓDIGO
-```
-
----
-
-# 📚 Atualmente estudando
-
-### 🤖 Inteligência Artificial
-
-* 🐍 Python
-* 🧠 Machine Learning
-* 🔥 PyTorch
-* 👁️ Computer Vision
-* 📷 OpenCV
-* 🧬 Redes Neurais
-* 🎯 Object Detection
-* 🧠 Deep Learning
-
-### ⚡ Desenvolvimento
-
-* FastAPI
-* APIs REST
-* PostgreSQL
-* Docker
 * Vue.js
-* TypeScript
-* Git / GitHub
-
-### 🚀 Próximos passos
-
-* YOLO
-* Transformers
-* Model Deployment
-* MLOps
-* Cloud
-* LLMs
-* AI Agents
+* JavaScript
+* HTML5
+* CSS3
+* Consumo de APIs REST
+* Dashboards e tabelas
+* Formulários e validação
+* Interfaces responsivas
 
 ---
 
-# 📈 Minha evolução
+## 🚀 Projetos em destaque
 
-```text
-2024
- │
- └── 💻 Desenvolvimento
-          │
-          ▼
-2025
- │
- ├── 🐍 Python
- ├── 🌐 Web
- └── 📊 Dados
-          │
-          ▼
-2026
- │
- ├── 🤖 Inteligência Artificial
- ├── 🔥 PyTorch
- ├── 👁️ Computer Vision
- ├── ⚡ FastAPI
- └── 🎨 Vue.js
-          │
-          ▼
-2027
- │
- ├── 🧠 Deep Learning
- ├── 🎯 Computer Vision avançada
- ├── 🚀 Deploy de modelos
- ├── ☁️ Cloud
- └── 🤖 AI Engineering
-```
+### 🛡️ CyvroTech Cyber Lab
+
+Laboratório de estudos em cibersegurança para praticar análise de eventos, investigação de alertas, redes, vulnerabilidades e resposta a incidentes.
+
+### 🤖 CyvroTech PDV IA
+
+Sistema de gestão comercial com módulos de vendas, estoque, financeiro, relatórios e recursos de Inteligência Artificial.
+
+### 🌱 AgroVision
+
+Projeto de Visão Computacional para analisar imagens e investigar padrões relacionados à saúde de plantas.
+
+### 🔧 CyvroTech Cyber Shield
+
+Projeto em desenvolvimento conceitual para estudar monitoramento, detecção de eventos e resposta controlada em ambientes Linux e Docker.
+
+> Os projetos devem ser classificados como concluídos, em desenvolvimento ou planejados de acordo com seu estado real.
 
 ---
 
-# 💻 Como eu gosto de trabalhar
-
-```text
-🔎 ENTENDER O PROBLEMA
-        ↓
-💡 DEFINIR A SOLUÇÃO
-        ↓
-🐍 DESENVOLVER
-        ↓
-🧪 TESTAR
-        ↓
-📊 ANALISAR RESULTADOS
-        ↓
-🔧 MELHORAR
-        ↓
-🚀 COLOCAR EM PRODUÇÃO
-```
-
----
-
-# 🏆 O que você encontrará neste GitHub
-
-```text
-🐍 Python Projects
-        +
-🤖 Artificial Intelligence
-        +
-👁️ Computer Vision
-        +
-⚡ FastAPI
-        +
-🎨 Vue.js
-        +
-🗄️ Databases
-        +
-🚀 Real-world Projects
-```
-
-Cada projeto representa uma etapa do meu aprendizado e da minha evolução como desenvolvedor.
-
----
-
-# 📊 GitHub
+## 🧰 Tecnologias
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,docker,linux,git,github,vue,js,html,css"/>
+</p>
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=BrunooRagnner&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF"
-/>
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunooRagnner&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=00D4FF&title_color=00D4FF&text_color=FFFFFF"
-/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-0A192F?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-5B21B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_APIs-008080?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🐍 Código em constante evolução
+## 📚 Aprendizado contínuo
 
-<p align="center">
+Minha rotina de estudos é orientada por projetos, documentação técnica, laboratórios e resolução de problemas.
 
-<img src="https://raw.githubusercontent.com/BrunooRagnner/BrunooRagnner/output/github-contribution-grid-snake.svg" />
+**Próximos objetivos:**
 
-</p>
-
----
-
-# 🎯 Objetivo profissional
-
-### Busco minha oportunidade como:
-
-**🤖 AI Developer Júnior**
-**🧠 Machine Learning Júnior**
-**👁️ Computer Vision Júnior**
-**🐍 Python Developer**
-**⚡ Backend Python / FastAPI**
-
-Quero fazer parte de uma equipe onde possa **aprender, contribuir, desenvolver soluções e evoluir profissionalmente na área de Inteligência Artificial.**
+* Evoluir em triagem e investigação de alertas SOC L1.
+* Desenvolver ferramentas de análise de logs em Python.
+* Consolidar FastAPI e integração com PostgreSQL.
+* Construir dashboards de segurança com Vue.js.
+* Praticar testes, logging, autenticação e segurança de APIs.
+* Aplicar Machine Learning em conjuntos de dados de segurança.
+* Documentar projetos com README, testes e evidências práticas.
 
 ---
 
-# 🤝 Vamos conversar?
+## 🎯 Objetivo profissional
 
-<p align="center">
+Busco oportunidades compatíveis com meu nível atual de desenvolvimento e aprendizado nas áreas de:
 
-<a href="https://www.linkedin.com/in/bruno-gomes-6266a8358">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+* SOC Analyst L1 Júnior.
+* Analista de Segurança da Informação Júnior.
+* Desenvolvedor Python Júnior.
+* Desenvolvedor Backend Python / FastAPI Júnior.
+* Desenvolvedor de automações com Python.
+* Desenvolvedor Júnior com foco em IA.
 
-<a href="https://github.com/BrunooRagnner">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
-<p align="center">
-
-📩 **Aberto a oportunidades, projetos e conexões na área de tecnologia e Inteligência Artificial.**
-
-</p>
+Quero contribuir com uma equipe, aprender com profissionais experientes e transformar conhecimento técnico em soluções úteis e seguras.
 
 ---
 
+## 🤝 Contato
+
+* GitHub: https://github.com/BrunooRagnner
+* LinkedIn: https://www.linkedin.com/in/bruno-gomes-6266a8358
+
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:061A2B,100:00D4FF&height=130&section=footer" width="100%" />
-
+  <strong>Segurança • Python • Inteligência Artificial • Dados • Desenvolvimento Web</strong>
 </p>
 
 <p align="center">
-
-### 🤖 AI • 🐍 Python • 👁️ Computer Vision • ⚡ FastAPI • 🎨 Vue.js
-
-**Transformando código, dados e imagens em soluções inteligentes.**
-
-</p>
-
-<p align="center">
-  <sub>© 2026 Bruno Ragner</sub>
+  <sub>© 2026 Bruno Ragner | Aprendizado contínuo e projetos práticos.</sub>
 </p>
