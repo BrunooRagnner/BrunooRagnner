@@ -37,6 +37,8 @@ Não quero ficar só na teoria. Gosto de colocar a mão na massa, montar laborat
 - 🐍 Usando Python para automação e desenvolvimento.
 - 🧠 Estudando IA, Machine Learning e Visão Computacional.
 - 🗄️ Praticando SQL, SQLite e PostgreSQL.
+- 🖥️ Desenvolvendo sistemas e aplicações web completas, do frontend ao backend.
+- 🌐 Criando sistemas web ativos: dashboards, painéis administrativos, APIs e aplicações conectadas a bancos de dados.
 - 🎨 Criando interfaces com Vue.js, JavaScript, HTML e CSS.
 - 🐳 Aprendendo com Linux, Docker e laboratórios locais.
 
@@ -81,6 +83,22 @@ Estou construindo um laboratório para praticar tarefas relacionadas a operaçõ
 *Estou documentando meu aprendizado. A lista representa ferramentas de estudo e não significa domínio profissional de todas elas.*
 
 ---
+
+## 🖥️ Desenvolvimento de sistemas & aplicações web
+
+Gosto de transformar ideias em sistemas que funcionem de verdade: aplicações web com interface, regras de negócio, backend, banco de dados e integração por API.
+
+Quero construir e evoluir projetos como:
+
+- 🌐 Sistemas web completos, do frontend ao backend.
+- 📊 Dashboards e painéis administrativos com dados atualizados.
+- 🧾 Sistemas de gestão, vendas, estoque e financeiro.
+- 🔐 Login, autenticação, permissões e proteção de rotas.
+- 🔌 APIs para conectar interfaces, serviços e bancos de dados.
+- 📱 Interfaces responsivas para computador e celular.
+- 🚀 Aplicações implantadas em ambientes de teste e produção, com configuração e documentação.
+
+**Stack que estou desenvolvendo:** Python, FastAPI, Vue.js, JavaScript, HTML, CSS, SQLite, PostgreSQL e Docker.
 
 ## 🐍 Python & Backend
 
@@ -131,6 +149,18 @@ Dados fazem parte tanto dos sistemas que desenvolvo quanto das ferramentas de se
 
 ---
 
+## 🌐 Sistemas web ativos: frontend, backend e integração
+
+Meu foco não é apenas criar páginas estáticas. Quero desenvolver aplicações web interativas que recebam dados, processem informações no backend, salvem resultados no banco de dados e apresentem tudo em uma interface clara.
+
+- 🧩 Frontend conectado a APIs.
+- ⚡ Backend com rotas, validações e regras de negócio.
+- 🗄️ Persistência de dados com SQLite ou PostgreSQL.
+- 🔑 Autenticação, autorização e gestão de sessões.
+- 📈 Dashboards com tabelas, filtros e indicadores.
+- 🧪 Testes, logs, tratamento de erros e documentação.
+- 🐳 Execução e implantação com Docker quando fizer sentido.
+
 ## 🎨 Frontend & Dashboards
 
 Quero que as ferramentas que desenvolvo sejam úteis e fáceis de entender, então também trabalho na parte visual.
@@ -157,7 +187,10 @@ Laboratório pessoal de estudos em cibersegurança, com foco em Linux, Docker, r
 Ideia de ferramenta para estudar monitoramento e resposta controlada a eventos em Linux e Docker. O objetivo é evoluir com regras explícitas, registros de auditoria e testes em ambiente controlado.
 
 ### 🤖 CyvroTech PDV IA
-Sistema de gestão comercial com módulos de vendas, estoque, financeiro, relatórios e recursos de Inteligência Artificial.
+Sistema web de gestão comercial com módulos de vendas, estoque, financeiro, relatórios e recursos de Inteligência Artificial.
+
+### 🌐 Desenvolvimento de sistemas web
+Projetos de aplicações com frontend, backend Python/FastAPI, APIs REST, banco de dados SQL, autenticação e dashboards. Esta área reúne sistemas funcionais e experimentos de desenvolvimento full-stack.
 
 ### 🌱 AgroVision
 Projeto de Visão Computacional para trabalhar com imagens de plantas e investigar padrões relacionados à saúde vegetal.
